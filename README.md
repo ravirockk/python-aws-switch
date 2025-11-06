@@ -1,5 +1,5 @@
 # DAY 1: PYTHON MEDIUM LEVEL - 10 CONCEPTS
-# Author: Aman | AWS + Python Switch | 06 Nov 2025
+# AWS + Python Switch | 06 Nov 2025
 
 # 1. List vs Tuple
 print("=== 1. List vs Tuple ===")
